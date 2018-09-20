@@ -40,3 +40,7 @@ spring boot stater = spring boot autoconfigure + spring boot dependencies
 @Controller 
 
 스프링 mvc에서 중요한 것은 DispatcherServlet
+
+- gitignore.io 
+java / intelliJ 등 변경 필요없는걸 검색하면 텍스트가 나온다. 
+jar 파일 가지고 포트 변경이 가능 빌드 배포분 하나 가지고 여러 환경에서 쓸 수 있다 - > 원소스 멀티 유즈 
