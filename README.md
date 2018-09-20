@@ -28,5 +28,15 @@ spring boot stater = spring boot autoconfigure + spring boot dependencies
 @Conponent
 : 
 
-라이브러리와 프레임워크의 차이
+- 라이브러리와 프레임워크의 차이
 
+@Service
+- 트랜잭션을 관리한다. 
+- 컨트롤러와 레파지토리 사이에서 중재 역할을 한다. 
+
+본인은 인터페이스에 메소드를 작성하고 
+인터페이스를 하나 더 만들어서.. 
+
+@Controller 
+
+스프링 mvc에서 중요한 것은 DispatcherServlet
